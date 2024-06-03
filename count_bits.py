@@ -7,3 +7,9 @@ def countingBits(n):
 print(countingBits(n))
 
 
+############## Reverse String #############
+
+txt = "I am Yasir"[::-1]
+print(txt)
+
+
