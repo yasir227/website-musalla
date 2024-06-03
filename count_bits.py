@@ -6,5 +6,4 @@ def countingBits(n):
 #n = 15
 print(countingBits(n))
 
-########
 
